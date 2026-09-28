@@ -1,0 +1,702 @@
+{
+  "site": "allbirds.com",
+  "audited_at": "2026-09-26T06:38:22Z",
+  "report_version": "1.0",
+  "marketplace": "brand-ai-readiness-audit",
+  "site_profile": {
+    "brand_name": "Allbirds",
+    "site_type": "ecommerce",
+    "classification_reason": "cart/checkout signals with product pages",
+    "primary_language": "en"
+  },
+  "scope": {
+    "seed_url": "https://allbirds.com/",
+    "pages_crawled": 5,
+    "pages_by_type": {
+      "home": 1,
+      "other": 1,
+      "product": 3
+    },
+    "crawler_user_agent": "BrandAIReadinessAudit/1.0 (+read-only site audit; obeys robots.txt)",
+    "rendering_available": false,
+    "elapsed_s": 12.5,
+    "read_only": true
+  },
+  "summary": {
+    "total_findings": 13,
+    "critical": 0,
+    "high": 3,
+    "medium": 6,
+    "low": 4,
+    "ai_discoverability_score": 39,
+    "on_site_engagement_score": 80,
+    "headline": "No hard blockers; the largest problem is F-001: Product markup is missing required properties"
+  },
+  "findings": [
+    {
+      "check_id": "SD-INCOMPLETE-PRODUCT",
+      "title": "Product markup is missing required properties",
+      "category": "discoverability",
+      "concern": "structured-data-audit",
+      "severity": "high",
+      "confidence": "high",
+      "evidence": "108 Product node(s) lack name, offers. Example: https://www.allbirds.com/products/mens-wool-runners (missing name, offers).",
+      "affected_urls": [
+        "https://www.allbirds.com/products/mens-wool-runners"
+      ],
+      "mechanism": "An incomplete node is often treated as invalid and dropped, which is worse than having no markup: the page appears marked up while providing nothing extractable.",
+      "suggested_action": {
+        "summary": "Populate name, offers on every Product node.",
+        "detail": "",
+        "priority": "high",
+        "effort": "low",
+        "verification": "Validate a page of each template and confirm zero required-property errors."
+      },
+      "id": "F-001"
+    },
+    {
+      "check_id": "CF-NO-OFFSITE-ANCHORS",
+      "title": "The site links to no independent profile that could corroborate it",
+      "category": "discoverability",
+      "concern": "corroboration-freshness-audit",
+      "severity": "high",
+      "confidence": "high",
+      "evidence": "60 external links found across 5 pages, none pointing to an identity or review source (Wikipedia/Wikidata, LinkedIn company page, Crunchbase, GitHub, G2, Trustpilot, Google Maps, a registry).",
+      "affected_urls": [
+        "https://allbirds.com/"
+      ],
+      "mechanism": "A claim that appears in exactly one place on the internet is fragile. Machines weight a fact by how many independent sources repeat it, so a brand described only by its own website has nothing reinforcing what it says about itself.",
+      "suggested_action": {
+        "summary": "Create and link the brand's authoritative profiles \u2014 at minimum a LinkedIn company page, a Google Business Profile if there is a physical location, an industry directory or review listing, and a Wikidata item \u2014 then reference them from sameAs.",
+        "detail": "This is the on-site half of the signal only. The off-site protocol in references/offsite-protocol.md checks whether those profiles exist, are current, and agree with the site.",
+        "priority": "high",
+        "effort": "medium",
+        "verification": ""
+      },
+      "id": "F-002"
+    },
+    {
+      "check_id": "SD-NO-ORGANIZATION",
+      "title": "No Organization node identifies the brand",
+      "category": "discoverability",
+      "concern": "structured-data-audit",
+      "severity": "high",
+      "confidence": "high",
+      "evidence": "162 JSON-LD node(s) across 5 crawled pages declare types (aggregaterating, brand, offer, product, productgroup), but none is an Organization or LocalBusiness.",
+      "affected_urls": [
+        "https://allbirds.com/"
+      ],
+      "mechanism": "Page-level types describe individual pages. Only an Organization node says who publishes them, which is what links every page to one brand entity.",
+      "suggested_action": {
+        "summary": "Add an Organization node to the site-wide template with name, url, logo, description and sameAs.",
+        "detail": "",
+        "priority": "high",
+        "effort": "medium",
+        "verification": ""
+      },
+      "id": "F-003"
+    },
+    {
+      "check_id": "EN-RENDER-BLOCKING",
+      "title": "Several render-blocking scripts sit in the document head",
+      "category": "engagement",
+      "concern": "engagement-audit",
+      "severity": "medium",
+      "confidence": "high",
+      "evidence": "Median of 16 scripts per page load synchronously without async or defer.",
+      "affected_urls": [
+        "https://allbirds.com/",
+        "https://www.allbirds.com/agents.md",
+        "https://www.allbirds.com/products/mens-wool-runners",
+        "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+        "https://www.allbirds.com/products/womens-wool-runners-natural-black"
+      ],
+      "mechanism": "Each synchronous script pauses parsing, so the visitor stares at a blank screen while code they did not ask for downloads and executes.",
+      "suggested_action": {
+        "summary": "Add defer (or async where order does not matter) to every script that is not needed for first paint.",
+        "detail": "",
+        "priority": "medium",
+        "effort": "low",
+        "verification": ""
+      },
+      "id": "F-004"
+    },
+    {
+      "check_id": "SD-NO-BREADCRUMBS",
+      "title": "Deep pages carry no BreadcrumbList markup",
+      "category": "both",
+      "concern": "structured-data-audit",
+      "severity": "medium",
+      "confidence": "high",
+      "evidence": "3 crawled pages are three or more levels deep (e.g. https://www.allbirds.com/products/mens-wool-runners) and no BreadcrumbList node was found.",
+      "affected_urls": [
+        "https://www.allbirds.com/products/mens-wool-runners",
+        "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+        "https://www.allbirds.com/products/womens-wool-runners-natural-black"
+      ],
+      "mechanism": "Breadcrumbs tell a machine where a page sits in the site and tell a visitor arriving from an AI answer what the surrounding context is. Assistants send people to deep pages, not homepages, so this is the cheapest fix that helps both extraction and orientation.",
+      "suggested_action": {
+        "summary": "Add BreadcrumbList markup, and render matching visible breadcrumbs, on every page below the top level.",
+        "detail": "",
+        "priority": "medium",
+        "effort": "low",
+        "verification": ""
+      },
+      "id": "F-005"
+    },
+    {
+      "check_id": "SD-NO-CONTEXT",
+      "title": "JSON-LD blocks omit @context",
+      "category": "discoverability",
+      "concern": "structured-data-audit",
+      "severity": "medium",
+      "confidence": "high",
+      "evidence": "3 page(s) have a JSON-LD block with no @context, e.g. https://www.allbirds.com/products/mens-wool-runners.",
+      "affected_urls": [
+        "https://www.allbirds.com/products/mens-wool-runners",
+        "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+        "https://www.allbirds.com/products/womens-wool-runners-natural-black"
+      ],
+      "mechanism": "Without @context the types are undefined names rather than schema.org terms, and the whole block is ignored.",
+      "suggested_action": {
+        "summary": "Add \"@context\": \"https://schema.org\" to the top of each block.",
+        "detail": "",
+        "priority": "medium",
+        "effort": "low",
+        "verification": ""
+      },
+      "id": "F-006"
+    },
+    {
+      "check_id": "EN-PAGE-WEIGHT",
+      "title": "Pages are heavy before any media is counted",
+      "category": "engagement",
+      "concern": "engagement-audit",
+      "severity": "medium",
+      "confidence": "high",
+      "evidence": "Median HTML document is 738 KB with 26 external scripts and 16 render-blocking scripts per page, across 5 pages. (HTML and resource counts only; images and fonts are additional.)",
+      "affected_urls": [
+        "https://www.allbirds.com/products/womens-wool-runners-natural-black",
+        "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+        "https://www.allbirds.com/products/mens-wool-runners"
+      ],
+      "mechanism": "Cited traffic skews mobile and impatient \u2014 the visitor did not choose this site, an assistant suggested it. Every second before the answer appears is spent on a page they have no prior commitment to.",
+      "suggested_action": {
+        "summary": "Cut third-party scripts to the ones with a named owner and a measured purpose, defer everything non-critical, and split oversized HTML documents.",
+        "detail": "Audit tag-manager containers first; they are usually where script count grows without anyone deciding it should.",
+        "priority": "medium",
+        "effort": "medium",
+        "verification": "Re-measure document size and script count after the cull."
+      },
+      "id": "F-007"
+    },
+    {
+      "check_id": "DC-NEAR-DUPLICATE-PAGES",
+      "title": "Two or more URLs carry near-identical body text",
+      "category": "discoverability",
+      "concern": "duplicate-canonicalization-audit",
+      "severity": "medium",
+      "confidence": "medium",
+      "evidence": "3 page pair(s) share 85%+ word-stem overlap, e.g. https://www.allbirds.com/products/mens-wool-runners and https://www.allbirds.com/products/mens-wool-runners-natural-white (100% overlap), with no canonical relating them.",
+      "affected_urls": [
+        "https://www.allbirds.com/products/mens-wool-runners",
+        "https://www.allbirds.com/products/mens-wool-runners-natural-white"
+      ],
+      "mechanism": "Two URLs with the same content compete against each other for the same query, splitting the corroboration and link signal that would otherwise accumulate on one page \u2014 the opposite of what makes a page citable.",
+      "suggested_action": {
+        "summary": "Pick one canonical URL per distinct piece of content and either rel=canonical or 301-redirect the others to it; if both must stay live (e.g. two locales), differentiate them or declare hreflang instead.",
+        "detail": "",
+        "priority": "medium",
+        "effort": "low",
+        "verification": ""
+      },
+      "id": "F-008"
+    },
+    {
+      "check_id": "TL-NO-BUSINESS-IDENTITY-DISCLOSED",
+      "title": "No registered business or charity identity is disclosed anywhere",
+      "category": "both",
+      "concern": "trust-legitimacy-audit",
+      "severity": "medium",
+      "confidence": "medium",
+      "evidence": "No company registration number, VAT/tax ID, registered address or charity registration was found in text across 5 crawled pages.",
+      "affected_urls": [
+        "https://allbirds.com/"
+      ],
+      "mechanism": "For a site that takes payment or donations, this disclosure is what lets a buyer or donor verify who they are actually dealing with. Its absence is a concrete, checkable legitimacy gap distinct from general off-site corroboration.",
+      "suggested_action": {
+        "summary": "Disclose the legal entity name, registration number and registered address (or charity registration number) in the footer or an About/Legal page.",
+        "detail": "",
+        "priority": "medium",
+        "effort": "low",
+        "verification": ""
+      },
+      "id": "F-009"
+    },
+    {
+      "check_id": "EN-ACCESSIBILITY-BASELINE",
+      "title": "Basic accessibility attributes are missing",
+      "category": "both",
+      "concern": "engagement-audit",
+      "severity": "low",
+      "confidence": "high",
+      "evidence": "4 form field(s) have no label, aria-label or id to bind a label to (across 5 crawled pages).",
+      "affected_urls": [
+        "https://allbirds.com/",
+        "https://www.allbirds.com/agents.md",
+        "https://www.allbirds.com/products/mens-wool-runners",
+        "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+        "https://www.allbirds.com/products/womens-wool-runners-natural-black"
+      ],
+      "mechanism": "These attributes are what both assistive technology and text extractors rely on to know what an element is. Missing them excludes real users and leaves machine readers guessing at the same time.",
+      "suggested_action": {
+        "summary": "Fix the mechanical basics: a lang attribute on <html>, a bound label for every form field, and text or an aria-label on every link.",
+        "detail": "This is a floor, not an accessibility audit: passing these checks does not make the site conformant, but failing them guarantees it is not.",
+        "priority": "low",
+        "effort": "low",
+        "verification": ""
+      },
+      "id": "F-010"
+    },
+    {
+      "check_id": "RX-MULTIPLE-H1",
+      "title": "Pages declare several competing H1 headings",
+      "category": "discoverability",
+      "concern": "render-extractability-audit",
+      "severity": "low",
+      "confidence": "high",
+      "evidence": "3 pages have more than two <h1> elements, e.g. https://www.allbirds.com/products/mens-wool-runners has 3.",
+      "affected_urls": [
+        "https://www.allbirds.com/products/mens-wool-runners",
+        "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+        "https://www.allbirds.com/products/womens-wool-runners-natural-black"
+      ],
+      "mechanism": "Several H1s leave no single statement of the page's subject, so the extracted topic is diluted.",
+      "suggested_action": {
+        "summary": "Keep one H1 per page and demote the rest to H2/H3 in reading order.",
+        "detail": "",
+        "priority": "low",
+        "effort": "low",
+        "verification": ""
+      },
+      "id": "F-011"
+    },
+    {
+      "check_id": "SD-NO-WEBSITE-NODE",
+      "title": "No WebSite node declares the site's name",
+      "category": "discoverability",
+      "concern": "structured-data-audit",
+      "severity": "low",
+      "confidence": "high",
+      "evidence": "Structured data present but no WebSite node found across 5 pages.",
+      "affected_urls": [
+        "https://allbirds.com/"
+      ],
+      "mechanism": "The WebSite node is what supplies the site's display name and links the domain to the brand entity, rather than leaving it inferred from the URL.",
+      "suggested_action": {
+        "summary": "Add a WebSite node with name, url and (if the site has search) a potentialAction/SearchAction.",
+        "detail": "",
+        "priority": "low",
+        "effort": "low",
+        "verification": ""
+      },
+      "id": "F-012"
+    },
+    {
+      "check_id": "SA-INTERNAL-LINKS-TO-REDIRECTING-URLS",
+      "title": "Internal links point at URLs that redirect instead of the final URL",
+      "category": "discoverability",
+      "concern": "site-architecture-audit",
+      "severity": "low",
+      "confidence": "high",
+      "evidence": "9 internal link(s) target a URL that redirects during this crawl, e.g. https://www.allbirds.com/products/mens-wool-runners links to https://www.allbirds.com/.",
+      "affected_urls": [
+        "https://www.allbirds.com/"
+      ],
+      "mechanism": "Every redirect hop is a request some fetchers do not follow and latency all of them pay. Internal links are entirely within the site's control, so this is pure waste rather than an unavoidable consequence of an external change.",
+      "suggested_action": {
+        "summary": "Update internal links to point directly at the final destination URL.",
+        "detail": "",
+        "priority": "low",
+        "effort": "medium",
+        "verification": ""
+      },
+      "id": "F-013"
+    }
+  ],
+  "action_plan": [
+    {
+      "stage": "Navigable",
+      "why_this_order": "A crawler that got in must also be able to find the site's other pages; a dead end or an orphaned URL is invisible even though the entry point works.",
+      "actions": [
+        {
+          "finding_id": "F-013",
+          "severity": "low",
+          "effort": "medium",
+          "action": "Update internal links to point directly at the final destination URL."
+        }
+      ]
+    },
+    {
+      "stage": "Readable",
+      "why_this_order": "The facts must exist in the served HTML, as text.",
+      "actions": [
+        {
+          "finding_id": "F-011",
+          "severity": "low",
+          "effort": "low",
+          "action": "Keep one H1 per page and demote the rest to H2/H3 in reading order."
+        }
+      ]
+    },
+    {
+      "stage": "Unambiguous",
+      "why_this_order": "The page must state what it is and who the brand is, explicitly.",
+      "actions": [
+        {
+          "finding_id": "F-001",
+          "severity": "high",
+          "effort": "low",
+          "action": "Populate name, offers on every Product node."
+        },
+        {
+          "finding_id": "F-003",
+          "severity": "high",
+          "effort": "medium",
+          "action": "Add an Organization node to the site-wide template with name, url, logo, description and sameAs."
+        },
+        {
+          "finding_id": "F-005",
+          "severity": "medium",
+          "effort": "low",
+          "action": "Add BreadcrumbList markup, and render matching visible breadcrumbs, on every page below the top level."
+        },
+        {
+          "finding_id": "F-006",
+          "severity": "medium",
+          "effort": "low",
+          "action": "Add \"@context\": \"https://schema.org\" to the top of each block."
+        },
+        {
+          "finding_id": "F-012",
+          "severity": "low",
+          "effort": "low",
+          "action": "Add a WebSite node with name, url and (if the site has search) a potentialAction/SearchAction."
+        }
+      ]
+    },
+    {
+      "stage": "Corroborated",
+      "why_this_order": "The facts must be current and repeated by independent sources.",
+      "actions": [
+        {
+          "finding_id": "F-002",
+          "severity": "high",
+          "effort": "medium",
+          "action": "Create and link the brand's authoritative profiles \u2014 at minimum a LinkedIn company page, a Google Business Profile if there is a physical location, an industry directory or review listing, and a Wikidata item \u2014 then reference them from sameAs."
+        }
+      ]
+    },
+    {
+      "stage": "Trustworthy",
+      "why_this_order": "Corroboration shows independent sources repeat the facts; trust signals show the facts come from an identifiable, accountable source in the first place.",
+      "actions": [
+        {
+          "finding_id": "F-009",
+          "severity": "medium",
+          "effort": "low",
+          "action": "Disclose the legal entity name, registration number and registered address (or charity registration number) in the footer or an About/Legal page."
+        }
+      ]
+    },
+    {
+      "stage": "Not diluted",
+      "why_this_order": "Even a corroborated, trustworthy fact can be split across near-duplicate URLs so that none of them accumulates enough weight to be the one cited.",
+      "actions": [
+        {
+          "finding_id": "F-008",
+          "severity": "medium",
+          "effort": "low",
+          "action": "Pick one canonical URL per distinct piece of content and either rel=canonical or 301-redirect the others to it; if both must stay live (e.g. two locales), differentiate them or declare hreflang instead."
+        }
+      ]
+    },
+    {
+      "stage": "Worth staying for",
+      "why_this_order": "The visitor the citation delivers must find the answer and a reason to continue.",
+      "actions": [
+        {
+          "finding_id": "F-004",
+          "severity": "medium",
+          "effort": "low",
+          "action": "Add defer (or async where order does not matter) to every script that is not needed for first paint."
+        },
+        {
+          "finding_id": "F-007",
+          "severity": "medium",
+          "effort": "medium",
+          "action": "Cut third-party scripts to the ones with a named owner and a measured purpose, defer everything non-critical, and split oversized HTML documents."
+        },
+        {
+          "finding_id": "F-010",
+          "severity": "low",
+          "effort": "low",
+          "action": "Fix the mechanical basics: a lang attribute on <html>, a bound label for every form field, and text or an aria-label on every link."
+        }
+      ]
+    }
+  ],
+  "proactive_recommendations": [
+    {
+      "title": "Publish an answer-shaped FAQ on the questions sales actually gets",
+      "detail": "Collect the questions prospects ask, publish each as a heading with a direct two-sentence answer immediately beneath it, and mark the block up as FAQPage. Question-shaped headings with short literal answers are the structure assistants quote most readily, because they match the shape of what was asked.",
+      "basis": "always applicable"
+    },
+    {
+      "title": "Keep one canonical description and use it verbatim everywhere",
+      "detail": "Write one sentence \u2014 '<brand> is a <category> that <does what> for <whom>' \u2014 and use it unchanged in the meta description, the Organization schema, the About page, and every third-party profile. Repetition across independent sources is what makes a description the one a model returns.",
+      "basis": "always applicable"
+    },
+    {
+      "title": "Give each important question its own URL",
+      "detail": "One page per question the brand should own, titled as the question, answering it in the first paragraph. A page that answers one thing precisely gets cited for it; a page that covers ten things gets cited for none.",
+      "basis": "always applicable"
+    },
+    {
+      "title": "Mark up availability, shipping and returns, not just price",
+      "detail": "Add availability, shippingDetails and hasMerchantReturnPolicy to Offer nodes. 'Is it in stock, when does it arrive, can I send it back' are the questions that decide a purchase, and they are the ones assistants are asked to compare across retailers.",
+      "basis": "site classified as ecommerce"
+    },
+    {
+      "title": "Publish specifications as text tables on every product page",
+      "detail": "A real HTML table of dimensions, materials, compatibility and model numbers makes the product matchable against a specific query. Specification sheets in images or PDFs cannot be compared against anything.",
+      "basis": "site classified as ecommerce"
+    },
+    {
+      "title": "Publish one original, dated, methodologically-stated data asset a year in the brand's domain \u2014 a benchmark, a survey of its customers, a pricing or market breakdown \u2014 with a stable URL and reusable figures.",
+      "detail": "Corroboration cannot be bought, but it can be earned: original numbers get quoted and linked by other sites, and those independent repetitions are exactly the signal that makes a brand's facts trusted and repeated back.",
+      "basis": "opportunity check CF-NO-CITABLE-ASSET",
+      "evidence": "No original research, benchmark, dataset, survey or reference resource was found in the crawled navigation and link text."
+    }
+  ],
+  "checks_not_applicable": [
+    {
+      "check_id": "CA-AI-TRAINING-BLOCKED",
+      "reason": "no training-crawler blocks present in robots.txt",
+      "skill": "crawl-access-audit"
+    },
+    {
+      "check_id": "CA-EDGE-BOT-BLOCK",
+      "reason": "a self-identifying non-browser request received the same status as a browser request",
+      "skill": "crawl-access-audit"
+    },
+    {
+      "check_id": "CA-CANONICAL-MISSING",
+      "reason": "every crawled page declares a canonical",
+      "skill": "crawl-access-audit"
+    },
+    {
+      "check_id": "CA-SLOW-RESPONSES",
+      "reason": "median response time 616 ms is within budget",
+      "skill": "crawl-access-audit"
+    },
+    {
+      "check_id": "RX-CLIENT-RENDERED-SHELL",
+      "reason": "served HTML already contains substantial text on every page",
+      "skill": "render-extractability-audit"
+    },
+    {
+      "check_id": "RX-NO-QUOTABLE-DEFINITION",
+      "reason": "homepage states the organisation's category in extractable text",
+      "skill": "render-extractability-audit"
+    },
+    {
+      "check_id": "SD-CONTRADICTS-PAGE",
+      "reason": "no price or name mismatches detected between markup and page text",
+      "skill": "structured-data-audit"
+    },
+    {
+      "check_id": "SD-FAQ-OPPORTUNITY",
+      "reason": "no page carries three or more question-shaped headings",
+      "skill": "structured-data-audit"
+    },
+    {
+      "check_id": "CF-NAME-AMBIGUITY-RISK",
+      "reason": "distinctive name or registry-grade identity links already present",
+      "skill": "corroboration-freshness-audit"
+    },
+    {
+      "check_id": "EN-NO-ARRIVAL-ORIENTATION",
+      "reason": "interior pages carry breadcrumbs or name the brand up front",
+      "skill": "engagement-audit"
+    },
+    {
+      "check_id": "EN-NO-VIEWPORT-META",
+      "reason": "all pages declare a viewport",
+      "skill": "engagement-audit"
+    },
+    {
+      "check_id": "SA-DEAD-END-PAGES",
+      "reason": "3 of 4 interior pages carry onward links",
+      "skill": "site-architecture-audit"
+    },
+    {
+      "check_id": "SA-ORPHAN-SITEMAP-URLS",
+      "reason": "sitemap declares 499 URLs against only 5 crawled pages \u2014 too large a gap for a shallow sample to reliably judge orphaning; a fuller crawl (--max-pages) is needed to check this",
+      "skill": "site-architecture-audit"
+    },
+    {
+      "check_id": "SA-PAGES-MISSING-FROM-SITEMAP",
+      "reason": "crawled pages are declared in the sitemap",
+      "skill": "site-architecture-audit"
+    },
+    {
+      "check_id": "AQ-NO-QUESTION-CONTENT",
+      "reason": "4 page(s) carry question-shaped headings or FAQ/HowTo structured data exists",
+      "skill": "answer-coverage-audit"
+    },
+    {
+      "check_id": "AQ-THIN-ANSWER-PAGE",
+      "reason": "pages with question-shaped headings carry a substantive amount of text per question",
+      "skill": "answer-coverage-audit"
+    },
+    {
+      "check_id": "AQ-NO-COMPARISON-CONTENT",
+      "reason": "comparison-shaped content already exists",
+      "skill": "answer-coverage-audit"
+    },
+    {
+      "check_id": "AQ-NO-OBJECTION-HANDLING",
+      "reason": "objection-handling content (refunds, guarantees, security) already exists",
+      "skill": "answer-coverage-audit"
+    },
+    {
+      "check_id": "TL-NO-HSTS",
+      "reason": "HSTS is present",
+      "skill": "trust-legitimacy-audit"
+    },
+    {
+      "check_id": "TL-NO-AUTHOR-BYLINE",
+      "reason": "fewer than 2 article/blog pages were crawled",
+      "skill": "trust-legitimacy-audit"
+    },
+    {
+      "check_id": "TL-NO-LEGAL-PAGES-LINKED",
+      "reason": "a privacy/terms/legal link or page was found",
+      "skill": "trust-legitimacy-audit"
+    },
+    {
+      "check_id": "DC-DUPLICATE-TITLE-OR-DESCRIPTION",
+      "reason": "no two distinct, non-canonicalised URLs share an identical title",
+      "skill": "duplicate-canonicalization-audit"
+    },
+    {
+      "check_id": "DC-PARAM-VARIANT-NOT-CANONICALIZED",
+      "reason": "no crawled URL carried query parameters",
+      "skill": "duplicate-canonicalization-audit"
+    },
+    {
+      "check_id": "LP-NAP-INCONSISTENT",
+      "reason": "site classified as ecommerce, not local_business; NAP and map checks assume a physical, address-bound business",
+      "skill": "local-presence-audit"
+    },
+    {
+      "check_id": "LP-HOURS-NOT-IN-SCHEMA",
+      "reason": "site classified as ecommerce, not local_business; NAP and map checks assume a physical, address-bound business",
+      "skill": "local-presence-audit"
+    },
+    {
+      "check_id": "LP-NO-MAP-EMBED-OR-LINK",
+      "reason": "site classified as ecommerce, not local_business; NAP and map checks assume a physical, address-bound business",
+      "skill": "local-presence-audit"
+    }
+  ],
+  "limitations": [
+    "No headless browser was available (playwright not installed), so JavaScript-render gaps were inferred from the served HTML. Findings that depend on rendering are marked confidence 'medium'.",
+    "Off-site corroboration (independent sources, entity collisions, what assistants currently say about the brand) was not verified with live search; only the on-site half of those signals was assessed.",
+    "5 page(s) were crawled (1\u00d7home, 1\u00d7other, 3\u00d7product). Findings describe the sampled pages; a finding reported on a sample of one template usually applies to every page built from it."
+  ],
+  "observations": {
+    "crawl-access-audit": {
+      "robots_fetched": true,
+      "retrieval_agents_allowed": [
+        "OAI-SearchBot",
+        "ChatGPT-User",
+        "Claude-User",
+        "Claude-SearchBot",
+        "PerplexityBot",
+        "Perplexity-User",
+        "Googlebot",
+        "Bingbot",
+        "DuckAssistBot",
+        "MistralAI-User",
+        "Amazonbot"
+      ],
+      "sitemap_urls": 2227,
+      "pages_fetched": 5,
+      "pages_ok": 4,
+      "median_response_ms": 616
+    },
+    "render-extractability-audit": {
+      "rendering_available": false,
+      "render_note": "playwright not installed",
+      "brand_name_inferred": "Allbirds",
+      "median_words_per_page": 16525,
+      "pages_analysed": 5
+    },
+    "structured-data-audit": {
+      "site_type": "ecommerce",
+      "brand": "Allbirds",
+      "schema_types_found": [
+        "aggregaterating",
+        "brand",
+        "offer",
+        "product",
+        "productgroup"
+      ],
+      "jsonld_nodes": 162,
+      "pages_analysed": 5,
+      "profile_available": true
+    },
+    "corroboration-freshness-audit": {
+      "brand": "Allbirds",
+      "newest_content_date": null,
+      "pages_with_dates": 0,
+      "authority_links": [],
+      "declared_same_as": [],
+      "distinct_phone_numbers": 1,
+      "unsourced_claims": 0,
+      "offsite_corroboration": "not checked by this script \u2014 run the off-site protocol"
+    },
+    "engagement-audit": {
+      "interior_pages_assessed": 3,
+      "median_html_kb": 737.7,
+      "median_external_scripts": 26,
+      "consent_platforms": [],
+      "has_site_search": false,
+      "median_words": 16525
+    },
+    "site-architecture-audit": {
+      "interior_pages": 4,
+      "sitemap_urls": 500,
+      "pages_crawled": 5
+    },
+    "answer-coverage-audit": {
+      "site_type": "ecommerce",
+      "pages_with_question_headings": 4,
+      "has_qa_schema": false
+    },
+    "trust-legitimacy-audit": {
+      "site_type": "ecommerce",
+      "blog_pages": 0,
+      "has_legal_link": true
+    },
+    "duplicate-canonicalization-audit": {
+      "pages_compared": 5,
+      "param_variant_pages": 0
+    },
+    "local-presence-audit": {
+      "site_type": "ecommerce"
+    }
+  }
+}

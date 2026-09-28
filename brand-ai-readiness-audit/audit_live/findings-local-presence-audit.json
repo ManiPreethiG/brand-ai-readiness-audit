@@ -1,0 +1,23 @@
+{
+ "skill": "local-presence-audit",
+ "bundle": "C:\\Users\\srira\\OneDrive\\Desktop\\brand-ai-readiness-audit\\audit_live\\bundle",
+ "site": "allbirds.com",
+ "findings": [],
+ "not_applicable": [
+  {
+   "check_id": "LP-NAP-INCONSISTENT",
+   "reason": "site classified as ecommerce, not local_business; NAP and map checks assume a physical, address-bound business"
+  },
+  {
+   "check_id": "LP-HOURS-NOT-IN-SCHEMA",
+   "reason": "site classified as ecommerce, not local_business; NAP and map checks assume a physical, address-bound business"
+  },
+  {
+   "check_id": "LP-NO-MAP-EMBED-OR-LINK",
+   "reason": "site classified as ecommerce, not local_business; NAP and map checks assume a physical, address-bound business"
+  }
+ ],
+ "observations": {
+  "site_type": "ecommerce"
+ }
+}

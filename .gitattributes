@@ -1,0 +1,28 @@
+# Nexora AI — Git line ending normalization
+# Ensures consistent LF line endings in the repo regardless of OS
+
+* text=auto eol=lf
+
+# Python files
+*.py text eol=lf
+
+# Markdown & JSON
+*.md text eol=lf
+*.json text eol=lf
+
+# Shell scripts
+*.sh text eol=lf
+
+# HTML & text files
+*.html text eol=lf
+*.txt text eol=lf
+
+# Binary files — no line ending conversion
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.ico binary
+*.zip binary
+*.gz binary

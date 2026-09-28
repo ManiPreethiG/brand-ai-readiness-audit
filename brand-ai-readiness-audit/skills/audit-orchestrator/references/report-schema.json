@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Brand AI-readiness audit report",
+  "type": "object",
+  "required": ["site", "audited_at", "summary", "findings"],
+  "properties": {
+    "site": {"type": "string", "description": "Host that was audited"},
+    "audited_at": {"type": "string", "format": "date-time"},
+    "report_version": {"type": "string"},
+    "marketplace": {"type": "string"},
+    "site_profile": {
+      "type": "object",
+      "properties": {
+        "brand_name": {"type": ["string", "null"]},
+        "site_type": {"type": ["string", "null"],
+          "enum": ["ecommerce", "saas", "local_business", "media", "docs",
+                   "nonprofit", "brochure", null]},
+        "classification_reason": {"type": ["string", "null"]},
+        "primary_language": {"type": ["string", "null"]}
+      }
+    },
+    "scope": {
+      "type": "object",
+      "properties": {
+        "seed_url": {"type": "string"},
+        "pages_crawled": {"type": "integer"},
+        "pages_by_type": {"type": "object"},
+        "crawler_user_agent": {"type": "string"},
+        "rendering_available": {"type": "boolean"},
+        "elapsed_s": {"type": "number"},
+        "read_only": {"const": true}
+      }
+    },
+    "summary": {
+      "type": "object",
+      "required": ["total_findings", "critical", "high", "medium"],
+      "properties": {
+        "total_findings": {"type": "integer"},
+        "critical": {"type": "integer"},
+        "high": {"type": "integer"},
+        "medium": {"type": "integer"},
+        "low": {"type": "integer"},
+        "ai_discoverability_score": {"type": "integer", "minimum": 0, "maximum": 100},
+        "on_site_engagement_score": {"type": "integer", "minimum": 0, "maximum": 100},
+        "headline": {"type": "string"}
+      }
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "severity", "evidence", "suggested_action"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^F-\\d{3}$"},
+          "check_id": {"type": "string"},
+          "title": {"type": "string"},
+          "severity": {"enum": ["critical", "high", "medium", "low", "info"]},
+          "category": {"enum": ["discoverability", "engagement", "both"]},
+          "concern": {"type": "string", "description": "Skill that produced the finding"},
+          "confidence": {"enum": ["high", "medium", "low"]},
+          "evidence": {"type": "string", "minLength": 10,
+            "description": "Must contain at least one observed value"},
+          "affected_urls": {"type": "array", "items": {"type": "string"}},
+          "mechanism": {"type": "string"},
+          "suggested_action": {
+            "type": "object",
+            "required": ["summary", "priority"],
+            "properties": {
+              "summary": {"type": "string"},
+              "detail": {"type": "string"},
+              "priority": {"enum": ["critical", "high", "medium", "low", "info"]},
+              "effort": {"enum": ["low", "medium", "high"]},
+              "verification": {"type": "string"}
+            }
+          }
+        }
+      }
+    },
+    "action_plan": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["stage", "actions"],
+        "properties": {
+          "stage": {"type": "string"},
+          "why_this_order": {"type": "string"},
+          "actions": {"type": "array", "items": {
+            "type": "object",
+            "properties": {
+              "finding_id": {"type": "string"},
+              "severity": {"type": "string"},
+              "effort": {"type": "string"},
+              "action": {"type": "string"}
+            }
+          }}
+        }
+      }
+    },
+    "proactive_recommendations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "detail"],
+        "properties": {
+          "title": {"type": "string"},
+          "detail": {"type": "string"},
+          "basis": {"type": "string"},
+          "evidence": {"type": "string"}
+        }
+      }
+    },
+    "checks_not_applicable": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "check_id": {"type": "string"},
+          "skill": {"type": "string"},
+          "reason": {"type": "string"}
+        }
+      }
+    },
+    "limitations": {"type": "array", "items": {"type": "string"}},
+    "observations": {"type": "object"}
+  }
+}

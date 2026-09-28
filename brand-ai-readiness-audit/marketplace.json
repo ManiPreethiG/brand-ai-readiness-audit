@@ -1,0 +1,90 @@
+{
+  "name": "brand-ai-readiness-audit",
+  "version": "1.0.0",
+  "description": "Nexora AI: Audits any website for the problems that stop AI assistants finding, reading, trusting and citing it, and leverages Hindsight persistent memory to track changes, detect regressions, and optimize citation visibility over time. Read-only.",
+  "license": "MIT",
+  "entrypoint": "audit-orchestrator",
+  "skills": [
+    {
+      "id": "audit-orchestrator",
+      "path": "skills/audit-orchestrator",
+      "entrypoint": true,
+      "stage": 0,
+      "summary": "Crawls once, profiles the site, runs every other skill against that single crawl, and composes their findings into the final audit report."
+    },
+    {
+      "id": "crawl-access-audit",
+      "path": "skills/crawl-access-audit",
+      "stage": 1,
+      "summary": "Can an AI retrieval agent reach the page at all? robots.txt policy, edge/WAF bot blocking, sitemaps, error and soft-404 responses, noindex/nosnippet, canonicals, redirects, latency."
+    },
+    {
+      "id": "render-extractability-audit",
+      "path": "skills/render-extractability-audit",
+      "stage": 2,
+      "summary": "Once fetched, can a machine read it and pick a fact out? JavaScript render gaps, app shells, iframes, facts locked in images or PDFs, click-to-open panels, document structure, quotable self-definition."
+    },
+    {
+      "id": "structured-data-audit",
+      "path": "skills/structured-data-audit",
+      "stage": 3,
+      "summary": "Does the page state what it is and identify the brand unambiguously? JSON-LD presence, validity, required properties, expected types by site type, Organization identity and sameAs anchors, markup-versus-page contradictions."
+    },
+    {
+      "id": "corroboration-freshness-audit",
+      "path": "skills/corroboration-freshness-audit",
+      "stage": 4,
+      "summary": "Are the facts current, self-consistent and repeated by independent sources? Staleness, undated content, expired promises, contradictory details and self-descriptions, uncited claims, entity collisions, off-site corroboration."
+    },
+    {
+      "id": "engagement-audit",
+      "path": "skills/engagement-audit",
+      "stage": 5,
+      "summary": "Does the visitor a citation delivers find their answer and a reason to stay? Deep-page orientation and next steps, interstitials, weight and speed, mobile, thin pages, scannability, gated facts, shareable state, accessibility baseline."
+    },
+    {
+      "id": "site-architecture-audit",
+      "path": "skills/site-architecture-audit",
+      "stage": 6,
+      "summary": "Once a crawler is let in, can it find the rest of the site? Dead-end pages, sitemap URLs never linked from any crawled page, crawled pages missing from the sitemap, internal links to pre-redirect URLs."
+    },
+    {
+      "id": "answer-coverage-audit",
+      "path": "skills/answer-coverage-audit",
+      "stage": 7,
+      "summary": "Does the site's content actually contain an answer worth quoting for the questions that decide a purchase? Question-and-answer coverage, comparison content, and coverage of standard purchase objections (refunds, guarantees, security)."
+    },
+    {
+      "id": "trust-legitimacy-audit",
+      "path": "skills/trust-legitimacy-audit",
+      "stage": 8,
+      "summary": "Do the site's own facts carry on-site signals of coming from an identifiable, accountable source? HSTS enforcement, identifiable authorship, linked legal pages, disclosed business/charity identity."
+    },
+    {
+      "id": "duplicate-canonicalization-audit",
+      "path": "skills/duplicate-canonicalization-audit",
+      "stage": 9,
+      "summary": "Is the site's own content split across near-identical URLs that compete with each other rather than accumulating citation weight on one page? Duplicate titles, near-duplicate body text, uncanonicalized query-parameter variants."
+    },
+    {
+      "id": "local-presence-audit",
+      "path": "skills/local-presence-audit",
+      "stage": 10,
+      "summary": "For a local business, does the site agree with itself on name, address and phone, and are opening hours machine-readable? Gated entirely on the site profile classifying the site as local_business."
+    }
+  ],
+  "runtime": {
+    "language": "python3",
+    "dependencies": "none (standard library only)",
+    "optional": "playwright — enables direct measurement of JavaScript render gaps; absence is handled with a documented static fallback",
+    "network": "read-only HTTP GET, robots.txt-obeying, rate-limited",
+    "budget_seconds": 300
+  },
+  "safety": {
+    "recommend_only": true,
+    "modifies_target_site": false,
+    "authenticated_areas": false,
+    "form_submission": false,
+    "respects_robots_txt": true
+  }
+}

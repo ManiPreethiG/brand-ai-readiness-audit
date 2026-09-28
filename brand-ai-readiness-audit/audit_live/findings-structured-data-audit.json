@@ -1,0 +1,142 @@
+{
+ "skill": "structured-data-audit",
+ "bundle": "C:\\Users\\srira\\OneDrive\\Desktop\\brand-ai-readiness-audit\\audit_live\\bundle",
+ "site": "allbirds.com",
+ "findings": [
+  {
+   "check_id": "SD-NO-CONTEXT",
+   "title": "JSON-LD blocks omit @context",
+   "category": "discoverability",
+   "concern": "structured-data-audit",
+   "severity": "medium",
+   "confidence": "high",
+   "evidence": "3 page(s) have a JSON-LD block with no @context, e.g. https://www.allbirds.com/products/mens-wool-runners.",
+   "affected_urls": [
+    "https://www.allbirds.com/products/mens-wool-runners",
+    "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+    "https://www.allbirds.com/products/womens-wool-runners-natural-black"
+   ],
+   "mechanism": "Without @context the types are undefined names rather than schema.org terms, and the whole block is ignored.",
+   "suggested_action": {
+    "summary": "Add \"@context\": \"https://schema.org\" to the top of each block.",
+    "detail": "",
+    "priority": "medium",
+    "effort": "low",
+    "verification": ""
+   }
+  },
+  {
+   "check_id": "SD-NO-ORGANIZATION",
+   "title": "No Organization node identifies the brand",
+   "category": "discoverability",
+   "concern": "structured-data-audit",
+   "severity": "high",
+   "confidence": "high",
+   "evidence": "162 JSON-LD node(s) across 5 crawled pages declare types (aggregaterating, brand, offer, product, productgroup), but none is an Organization or LocalBusiness.",
+   "affected_urls": [
+    "https://allbirds.com/"
+   ],
+   "mechanism": "Page-level types describe individual pages. Only an Organization node says who publishes them, which is what links every page to one brand entity.",
+   "suggested_action": {
+    "summary": "Add an Organization node to the site-wide template with name, url, logo, description and sameAs.",
+    "detail": "",
+    "priority": "high",
+    "effort": "medium",
+    "verification": ""
+   }
+  },
+  {
+   "check_id": "SD-INCOMPLETE-PRODUCT",
+   "title": "Product markup is missing required properties",
+   "category": "discoverability",
+   "concern": "structured-data-audit",
+   "severity": "high",
+   "confidence": "high",
+   "evidence": "108 Product node(s) lack name, offers. Example: https://www.allbirds.com/products/mens-wool-runners (missing name, offers).",
+   "affected_urls": [
+    "https://www.allbirds.com/products/mens-wool-runners",
+    "https://www.allbirds.com/products/mens-wool-runners",
+    "https://www.allbirds.com/products/mens-wool-runners",
+    "https://www.allbirds.com/products/mens-wool-runners",
+    "https://www.allbirds.com/products/mens-wool-runners",
+    "https://www.allbirds.com/products/mens-wool-runners",
+    "https://www.allbirds.com/products/mens-wool-runners",
+    "https://www.allbirds.com/products/mens-wool-runners"
+   ],
+   "mechanism": "An incomplete node is often treated as invalid and dropped, which is worse than having no markup: the page appears marked up while providing nothing extractable.",
+   "suggested_action": {
+    "summary": "Populate name, offers on every Product node.",
+    "detail": "",
+    "priority": "high",
+    "effort": "low",
+    "verification": "Validate a page of each template and confirm zero required-property errors."
+   }
+  },
+  {
+   "check_id": "SD-NO-BREADCRUMBS",
+   "title": "Deep pages carry no BreadcrumbList markup",
+   "category": "both",
+   "concern": "structured-data-audit",
+   "severity": "medium",
+   "confidence": "high",
+   "evidence": "3 crawled pages are three or more levels deep (e.g. https://www.allbirds.com/products/mens-wool-runners) and no BreadcrumbList node was found.",
+   "affected_urls": [
+    "https://www.allbirds.com/products/mens-wool-runners",
+    "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+    "https://www.allbirds.com/products/womens-wool-runners-natural-black"
+   ],
+   "mechanism": "Breadcrumbs tell a machine where a page sits in the site and tell a visitor arriving from an AI answer what the surrounding context is. Assistants send people to deep pages, not homepages, so this is the cheapest fix that helps both extraction and orientation.",
+   "suggested_action": {
+    "summary": "Add BreadcrumbList markup, and render matching visible breadcrumbs, on every page below the top level.",
+    "detail": "",
+    "priority": "medium",
+    "effort": "low",
+    "verification": ""
+   }
+  },
+  {
+   "check_id": "SD-NO-WEBSITE-NODE",
+   "title": "No WebSite node declares the site's name",
+   "category": "discoverability",
+   "concern": "structured-data-audit",
+   "severity": "low",
+   "confidence": "high",
+   "evidence": "Structured data present but no WebSite node found across 5 pages.",
+   "affected_urls": [
+    "https://allbirds.com/"
+   ],
+   "mechanism": "The WebSite node is what supplies the site's display name and links the domain to the brand entity, rather than leaving it inferred from the URL.",
+   "suggested_action": {
+    "summary": "Add a WebSite node with name, url and (if the site has search) a potentialAction/SearchAction.",
+    "detail": "",
+    "priority": "low",
+    "effort": "low",
+    "verification": ""
+   }
+  }
+ ],
+ "not_applicable": [
+  {
+   "check_id": "SD-CONTRADICTS-PAGE",
+   "reason": "no price or name mismatches detected between markup and page text"
+  },
+  {
+   "check_id": "SD-FAQ-OPPORTUNITY",
+   "reason": "no page carries three or more question-shaped headings"
+  }
+ ],
+ "observations": {
+  "site_type": "ecommerce",
+  "brand": "Allbirds",
+  "schema_types_found": [
+   "aggregaterating",
+   "brand",
+   "offer",
+   "product",
+   "productgroup"
+  ],
+  "jsonld_nodes": 162,
+  "pages_analysed": 5,
+  "profile_available": true
+ }
+}

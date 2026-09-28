@@ -1,0 +1,5921 @@
+{
+ "declared_in_robots": [
+  "https://www.allbirds.com/sitemap.xml"
+ ],
+ "documents": [
+  {
+   "url": "https://www.allbirds.com/sitemap.xml",
+   "status": 200,
+   "ok": true,
+   "is_index": true,
+   "urls": 6,
+   "with_lastmod": 0
+  },
+  {
+   "url": "https://www.allbirds.com/sitemap_agentic_discovery.xml",
+   "status": 200,
+   "ok": true,
+   "is_index": false,
+   "urls": 1,
+   "with_lastmod": 0
+  },
+  {
+   "url": "https://www.allbirds.com/sitemap_products_1.xml?from=1878193471557&amp;to=7369944137808",
+   "status": 200,
+   "ok": true,
+   "is_index": false,
+   "urls": 693,
+   "with_lastmod": 692
+  },
+  {
+   "url": "https://www.allbirds.com/sitemap_pages_1.xml?from=154421575&amp;to=94891114576",
+   "status": 200,
+   "ok": true,
+   "is_index": false,
+   "urls": 175,
+   "with_lastmod": 175
+  },
+  {
+   "url": "https://www.allbirds.com/sitemap_collections_1.xml?from=423410055&amp;to=279444029520",
+   "status": 200,
+   "ok": true,
+   "is_index": false,
+   "urls": 1346,
+   "with_lastmod": 1346
+  },
+  {
+   "url": "https://allbirds.com/sitemap.xml",
+   "status": 200,
+   "ok": true,
+   "is_index": true,
+   "urls": 6,
+   "with_lastmod": 0
+  },
+  {
+   "url": "https://allbirds.com/sitemap_index.xml",
+   "status": 404,
+   "ok": false,
+   "urls": 0,
+   "error": ""
+  }
+ ],
+ "urls": [
+  {
+   "loc": "https://www.allbirds.com/agents.md",
+   "lastmod": "",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/",
+   "lastmod": "",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runners",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runners-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runners-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-loungers-tuke-jam",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-tubers-onyx",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runners-savanna-night-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runners-savanna-night-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-quarters-onyx",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-mizzles-natural-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-natural-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-loungers-natural-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezers-mist",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-tubers-navy-night",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezers-jet-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-trino-thong-nimbus",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-skippers-sesame",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-mizzles-true-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-trino-thong-peppercorn",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runners-true-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runners-true-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-loungers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-trino-thong-kaikoura-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runners-kaikoura-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners-kaikoura-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners-jet-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners-jet-black-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners-navy-night",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runners-jet-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runners",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runners-navy-night",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-loungers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-skippers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-skippers-jet-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runners-mist",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-pipers-luna",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-pipers-mulberry",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-pipers-kaikoura-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-pipers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-camp-short-gust",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runners-wheat-dark-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners-heathered-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-mizzles-ausangate",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-rr-hoodie-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-sprinters-low-navy-night",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-sprinters-low-onyx",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-sprinters-summertime-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-sprinters-no-show-onyx",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-sprinters-no-show-summertime-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-blizzard-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezers-buoyant-orange",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-sprinters-no-show-lux-purple",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dasher-relay",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dasher-relay",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-sprinters-cushioned-navy-night",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-sprinters-cushioned-onyx-new-edition",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-natural-black-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-natural-black-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/trino-sprinters-low-buoyant-pink",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/smallbirds-wool-runners-big-kids-natural-white-fluffs",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/smallbirds-wool-loungers-big-kids-natural-white-fluffs",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/smallbirds-wool-loungers-big-kids",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-mizzles-dark-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-mizzles-natural-black-rugged-khaki",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-hazy-indigo",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-mizzles-dark-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-natural-black-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-deep-emerald",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-natural-black-rugged-khaki",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-up-mizzles-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-plant-pacers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-plant-pacers-dreamy-green",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runners-hazy-indigo",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runners-hazy-indigo",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-up-mizzle-plus",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzle-plus",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-dasher-mizzles",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dasher-relay-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dasher-relay-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezers-forage-tan",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-canvas-pacer-mids",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-calm-teal",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-sunny-marigold",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-calm-teal",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners-hazy-indigo",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dasher-rich-earth",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-superlight-wool-runners-natural-black-light-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-pipers-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-pipers-natural-black-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezers-bloom-coral",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dasher-relay-hazy-indigo",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners-blizzard-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-couriers-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-couriers-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-couriers-natural-black-bloom-green",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-couriers-hazy-indigo-true-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners-thunder-green",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-pipers-thunder-green",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-skippers-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-skippers-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-mizzles-dark-grey-light-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-soft-merino-tee-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-soft-merino-tee",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runners-dapple-grey-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-breezers-dapple-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-up-mizzles-dark-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-thunder-green",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-natural-black-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-up-mizzles-hazy-indigo-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-trail-runners-swt",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-blizzard-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-trail-runners-swt-true-navy-hazy-indigo",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-blizzard-hazy-cobalt",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-blizzard-hazy-cobalt",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-trail-runners-swt-hazy-cocoa-dark-cocoa",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-superlight-wool-runners-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-superlight-tree-runners-light-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dasher-relay-blizzard-hazy-cobalt",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-superlight-tree-runners-natural-black-dark-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-mizzles-natural-black-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-savanna-night-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-soft-merino-tee-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-soft-merino-tee",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-soft-merino-long-sleeve-tee-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-hazy-cocoa-stony-cream",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-golf-dashers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-dream-pant-botanic-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-go-natural-white-nz-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-go-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-go-rich-earth",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-go-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-go-rich-earth",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-go-natural-white-nz-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dasher-relay-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-pipers-natural-white-true-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-botanic-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-mizzles-dark-grey-bloom-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-trail-runners-swt-natural-black-rugged-khaki",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-trail-runners-swt-medium-grey-rugged-khaki",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-recycled-tee-mother-nature",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-couriers-blizzard-light-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-couriers-dark-grey-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-natural-white-true-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-couriers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-basin-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-superlight-tree-runners-basin-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-couriers-stony-cream-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-breezy-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-go-light-grey-true-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezers-natural-black-stormy-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dasher-relay-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-blizzard-thunder-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dasher-relay-blizzard-thunder-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-blizzard-bloom-coral",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-canvas-pipers-natural-black-1",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-canvas-pipers-blizzard-1",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-natural-black-blizzard-sole",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-basin-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-cloudy-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-rugged-green",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-canvas-pipers-basin-blue-1",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-superlight-tree-runners-blizzard-bloom-coral",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-dasher-mizzles-medium-grey-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-dasher-mizzles-medium-grey-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-dasher-mizzles-deep-navy-hazy-indigo",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-dasher-mizzles-deep-navy-hazy-indigo",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-stony-cream",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-mizzles-natural-black-chasm-teal",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-couriers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-toppers-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-toppers-hazy-indigo",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-toppers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-toppers-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-toppers-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-toppers-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-toppers",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-toppers-stormy-grey-barely-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-toppers-stormy-grey-barely-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-deep-navy-true-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-dasher-mizzles-stony-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-deep-navy-true-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-natural-black-chasm-teal",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-stormy-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-soft-merino-long-sleeve-tee-true-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-soft-merino-tee-true-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dasher-relay-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-3-pack-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-3-pack-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-3-pack-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-3-pack-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-chasm-teal-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-chasm-teal-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-gliders-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-gliders-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-gliders-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-gliders-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-gliders",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-gliders-twilight-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-gliders-natural-black-rugged-khaki",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-gliders-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-gliders-blizzard-hanami-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-gliders-twilight-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-gliders-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-gliders-natural-black-rugged-khaki",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-gliders-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-gliders",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-piper-go-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-piper-go-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-piper-go-chasm-teal-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-lounger-lift-hazy-burgundy-stony-cream",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-lounger-lift-stony-cream",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-lounger-lift-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-lounger-lift",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dasher-relay-hanami-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-blizzard-vivid-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-natural-white-basin-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-piper-go",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-piper-go-blizzard-vivid-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-couriers-natural-white-basin-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-couriers-natural-white-basin-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-superlight-tree-runners-blizzard-lux-liberty",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-lounger-lift-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-lounger-lift-natural-white-hanami-night",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-blizzard-lux-liberty",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-rustic-brown",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners-blizzard-bold-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-blizzard-bold-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runners-blizzard-hanami-night",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-blizzard-hanami-night",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-blizzard-bold-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-toppers-rustic-brown",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-blizzard-bold-red",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-blizzard-hanami-night",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-twilight-white-twilight-teal",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-rustic-brown",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-weathered-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-runner-up-protect-natural-black-chasm-teal",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-lounger-mule-stony-cream",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-lounger-lift-corduroy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-runner-up-protect",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-runner-go-luxe-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-natural-grey-heather-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-natural-grey-heather-light-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-cloudstripe",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-blizzard-kiwi-bird",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-natural-grey-heather-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-runner-go-luxe",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-nz-map",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-sheep",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-runner-go-corduroy-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-natural-grey-heather-light-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-runner-protect-dark-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-runner-protect-natural-black-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-runner-protect-dark-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-rustic-orange",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-runner-up-protect-natural-black-chasm-teal",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-runner-protect-natural-black-chasm-teal",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-runner-go-luxe",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-courier-luxe-true-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-runner-go-corduroy-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-runner-go-corduroy-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezers-light-khaki",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-natural-white-rustic-orange",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-toppers-hazy-pine",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-blizzard-zen-mauve",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runners-blizzard-hanami-plum",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-hazy-pine",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-toppers-hazy-pine",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-gliders-blizzard-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-utility-blizzard-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-blizzard-light-khaki",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-utility",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-couriers-blizzard-light-khaki",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-utility-natural-white-rustic-brown",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-canvas-pipers-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-couriers-blizzard-hazy-indigo",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-utility-blizzard-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-utility-blizzard-hazy-pine",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-utility",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-utility",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-canvas-pipers-blizzard-bark-brown",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-utility",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-utility-blizzard-deep-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-utility-natural-white-rustic-brown",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-go-utility-natural-white-rustic-brown",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-lounger-lift-hanami-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-dashers-utility-blizzard-hazy-pine",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-merino-blend-sweatpant",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-merino-blend-sweatpant-natural-grey-heather",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-merino-blend-sweatpant-natural-grey-heather",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-merino-blend-sweatshirt-natural-grey-heather",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-merino-blend-sweatpant",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-utility-blizzard-hazy-pine",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-cruiser",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-nz-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-nz-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-nz-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-nz-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-nz-dark-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-nz-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-nz",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-nz-thunder-green",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-nz-dark-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-nz-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-nz-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-nz",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-nz-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-nz-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-nz-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezer-bow",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezer-sienna-blush-knit",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezer-bow-bark-brown",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-breezer-bow-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-cruiser-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-cruiser-dark-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-cruiser-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-cruiser-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-cruiser-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-cruiser-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-cruiser-dark-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-cruiser-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-cruiser",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-cruiser-natural-white-taupe-blush",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-cruiser-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-cruiser-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-go-utility-natural-black-dark-jungle",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dasher-relay-stony-cream-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-rugged-beige-stony-cream",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-dashers-utility-natural-black-dark-jungle",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-lounger-lift-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-lounger-lift-rugged-beige-stony-cream",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-blizzard-royal-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-blizzard-sienna-blush",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-blizzard-royal-blue",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-blizzard-sienna",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-no-show-sock-blizzard-thunder-green",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-ankle-sock-blizzard-thunder-green",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/anytime-crew-sock-natural-black-dark-grey-stripe",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-cruiser-blizzard-dark-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-tree-runner-nz-blizzard-dark-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-cruiser",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-cruiser-slip-on",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-cruiser-slip-on-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-cruiser-slip-on-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-nz",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-nz-dark-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-nz-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-nz-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-nz-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-runner-nz-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-cruiser-blizzard-dark-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-tree-runner-nz-blizzard-dark-navy",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-cruiser-natural-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-cruiser-slip-on-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-cruiser-slip-on-natural-black-blizzard",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-cruiser-slip-on-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-wool-strider",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-nz-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-strider",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-cruiser-slip-on",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-nz-natural-black",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-cruiser-slip-on-rugged-beige",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-nz-medium-grey",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/womens-wool-runner-nz-natural-white",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/products/mens-strider",
+   "lastmod": "2026-09-25T23:38:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/careers",
+   "lastmod": "2026-03-19T11:41:39-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/truth-about-allbirds-coupons",
+   "lastmod": "2023-08-18T12:02:40-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/golden-ticket",
+   "lastmod": "2019-05-22T12:00:11-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/fit-guide",
+   "lastmod": "2025-08-11T14:57:32-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/our-commitment",
+   "lastmod": "2019-04-21T22:00:00-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/our-materials-sugar",
+   "lastmod": "2024-02-05T19:02:59-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/our-materials-wool",
+   "lastmod": "2024-02-05T18:58:04-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/our-materials-tree",
+   "lastmod": "2024-02-05T19:00:10-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/our-materials-trino",
+   "lastmod": "2024-02-05T19:09:40-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/our-story",
+   "lastmod": "2025-07-09T22:12:04-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/stores",
+   "lastmod": "2025-09-16T16:49:05-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/returns-exchanges",
+   "lastmod": "2025-12-11T15:08:41-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/help",
+   "lastmod": "2025-12-11T15:08:47-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/materials-making",
+   "lastmod": "2026-08-06T18:54:58-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/affiliates",
+   "lastmod": "2025-07-09T22:11:54-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/check-gift-card-balance",
+   "lastmod": "2020-12-14T03:45:52-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/accessibility",
+   "lastmod": "2025-07-09T22:11:54-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/plant-leather",
+   "lastmod": "2023-01-18T13:07:02-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tree-runner-shoes",
+   "lastmod": "2023-01-18T12:53:40-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/regenerative-agriculture",
+   "lastmod": "2023-01-18T13:10:46-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/carbon-offset-projects",
+   "lastmod": "2024-10-14T09:00:40-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/sustainable-practices",
+   "lastmod": "2024-10-14T09:31:54-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/how-we-operate",
+   "lastmod": "2024-10-14T09:34:07-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/carbon-footprint-calculator",
+   "lastmod": "2023-01-18T13:13:16-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/stay-in-the-know",
+   "lastmod": "2025-07-09T22:12:08-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/footprint",
+   "lastmod": "2024-10-14T09:00:41-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/renewable-materials",
+   "lastmod": "2024-01-03T09:28:34-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/responsible-energy",
+   "lastmod": "2024-01-03T09:28:28-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/afterpay",
+   "lastmod": "2025-07-09T22:11:54-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/careers-retail",
+   "lastmod": "2026-03-19T11:42:54-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/careers-benefits",
+   "lastmod": "2025-04-21T16:06:44-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/community-offers",
+   "lastmod": "2025-07-09T22:11:58-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/giving-mother-nature-a-seat-ipo",
+   "lastmod": "2023-08-22T09:24:02-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/shoe-care",
+   "lastmod": "2025-07-09T22:12:06-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/refer-a-friend",
+   "lastmod": "2025-07-09T22:12:05-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/adidas-x-allbirds",
+   "lastmod": "2024-08-15T09:10:00-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/shopping-info",
+   "lastmod": "2023-01-18T12:53:54-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/allbirds-and-rosie-assoulin",
+   "lastmod": "2023-01-18T13:14:33-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/erg",
+   "lastmod": "2023-01-18T13:06:37-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/schooled-with-marshawn",
+   "lastmod": "2025-01-14T15:00:07-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/cookies",
+   "lastmod": "2025-07-09T22:11:54-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/moonshot-press-release",
+   "lastmod": "2025-07-09T22:12:03-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/moonshot-explained",
+   "lastmod": "2025-02-02T20:00:19-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/moonshot-zero-carbon-shoes",
+   "lastmod": "2025-07-09T22:12:03-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/riser-press-release",
+   "lastmod": "2023-08-07T10:02:35-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/best-shoes-for-standing-all-day",
+   "lastmod": "2025-07-09T22:11:57-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/best-shoes-for-being-indoors",
+   "lastmod": "2025-07-09T22:11:56-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/superlight-collection-press-release",
+   "lastmod": "2025-07-09T22:12:08-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/flight-status-press-release",
+   "lastmod": "2025-07-09T22:12:01-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/how-to-make-your-walk-more-challenging",
+   "lastmod": "2025-07-09T22:12:02-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tips-for-safer-road-running",
+   "lastmod": "2025-06-10T11:06:35-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/10-tested-tips-for-beginner-runners",
+   "lastmod": "2024-08-13T15:46:08-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/best-running-shoes-for-beginners",
+   "lastmod": "2025-07-09T22:11:55-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/how-to-stay-consistent-with-your-walking-routine",
+   "lastmod": "2024-08-13T15:38:00-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tips-for-beginning-trail-running",
+   "lastmod": "2024-08-13T15:37:51-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/finding-the-best-womens-flats",
+   "lastmod": "2024-08-13T15:42:15-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/choosing-the-right-travel-shoes",
+   "lastmod": "2025-07-09T22:11:57-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/comfortable-walking-shoes-for-travel",
+   "lastmod": "2025-07-09T22:11:59-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/golf-dasher-press-release",
+   "lastmod": "2025-07-09T22:12:01-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/everyday-shoes-youll-never-want-to-take-off",
+   "lastmod": "2025-07-09T22:12:01-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/moonshot-reveal-press-release",
+   "lastmod": "2025-07-09T22:12:04-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/allbirds-and-olivia-rubin-press-release",
+   "lastmod": "2023-08-22T11:33:39-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tree-flyer-2-press-release",
+   "lastmod": "2025-07-09T22:12:09-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/press",
+   "lastmod": "2025-07-17T21:44:28-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/the-most-comfortable-shoes-in-your-closet",
+   "lastmod": "2025-07-09T22:12:09-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/breathable-shoes-for-all-occasions",
+   "lastmod": "2025-07-09T22:11:56-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/how-casual-sneakers-are-redefining-everyday-style",
+   "lastmod": "2025-07-09T22:12:02-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/allbirds-and-tiffany-bouelle",
+   "lastmod": "2023-09-13T07:11:56-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/courier-press-release",
+   "lastmod": "2025-07-09T22:12:00-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/walking-versus-running-common-questions-answered",
+   "lastmod": "2025-07-09T22:12:10-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/the-walking-lifestyle-your-questions-answered",
+   "lastmod": "2024-08-29T13:55:16-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/what-shoes-to-wear-when-traveling-someplace-cold",
+   "lastmod": "2024-12-12T08:41:01-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tips-for-the-b-corp-curious-press-release",
+   "lastmod": "2023-10-06T14:13:34-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/the-perch",
+   "lastmod": "2025-06-17T15:10:08-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/how-to-make-walking-a-habit",
+   "lastmod": "2023-10-10T13:44:36-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/best-shoes-for-the-classroom",
+   "lastmod": "2024-08-29T14:07:17-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/wool-runner-go-press-release",
+   "lastmod": "2024-09-30T15:19:23-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/fuzzy-shoes-for-everyday-comfort",
+   "lastmod": "2024-08-29T13:56:12-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/navigating-holiday-travel",
+   "lastmod": "2024-08-29T13:54:58-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/best-shoes-for-nurses-to-support-you-through-the-day",
+   "lastmod": "2024-08-29T14:07:29-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/trail-runners-for-hiking",
+   "lastmod": "2025-07-09T22:12:09-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/pack-light-with-one-carry-on",
+   "lastmod": "2024-08-29T13:54:58-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/lightweight-workout-shoes",
+   "lastmod": "2024-08-29T14:07:18-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/the-best-home-workout-shoes",
+   "lastmod": "2024-08-29T14:07:20-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/how-to-hike-like-a-pro",
+   "lastmod": "2024-08-29T14:07:51-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/new-customer-coupon-rules",
+   "lastmod": "2025-07-09T22:12:05-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/back-in-black-shoes",
+   "lastmod": "2024-08-13T15:33:55-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/what-you-need-for-a-spring-hike",
+   "lastmod": "2024-08-29T14:11:17-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/why-spring-is-the-best-time-to-start-a-walking-habit",
+   "lastmod": "2024-08-29T14:11:22-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/best-shoes-to-keep-pace-with-parenthood",
+   "lastmod": "2024-03-22T12:44:53-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/best-shoes-to-keep-pace-with-parenthood",
+   "lastmod": "2024-03-22T12:44:53-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/how-to-start-running-shop",
+   "lastmod": "2024-08-13T15:38:47-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/comfortable-golf-shoes",
+   "lastmod": "2025-07-09T22:11:59-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/jogging-shoes-for-the-casual-runner",
+   "lastmod": "2024-08-29T14:11:28-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tree-runner-go-press-release",
+   "lastmod": "2024-08-07T15:09:27-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/osaka-grand-front",
+   "lastmod": "2024-09-16T08:29:00-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/shanghai",
+   "lastmod": "2024-05-29T11:48:27-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/chengdu",
+   "lastmod": "2024-05-29T11:48:22-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/beijing",
+   "lastmod": "2024-05-29T11:48:25-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/garosu-gil",
+   "lastmod": "2024-05-29T11:49:29-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/berlin",
+   "lastmod": "2024-05-29T11:49:32-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/london-covent-garden",
+   "lastmod": "2024-05-29T11:49:34-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/hamburg",
+   "lastmod": "2024-05-29T11:49:27-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/thehyundai",
+   "lastmod": "2024-05-29T11:48:38-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/auckland",
+   "lastmod": "2024-12-04T13:08:12-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tokyo-marunouchi",
+   "lastmod": "2024-09-16T08:29:15-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tokyo-harajuku",
+   "lastmod": "2024-09-16T08:28:59-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/camping-shoes-for-comfort",
+   "lastmod": "2025-06-11T10:14:39-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/gardening-shoes-and-garden-gnomes",
+   "lastmod": "2024-08-29T14:11:49-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/essential-gear-for-pickleball",
+   "lastmod": "2024-08-13T15:21:20-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/what-to-look-for-in-an-everyday-shoe",
+   "lastmod": "2024-08-21T15:21:10-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/sustainable-golf-shoes",
+   "lastmod": "2024-08-13T15:20:54-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/everyday-work-shoes-for-men",
+   "lastmod": "2024-08-13T15:20:19-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/shoes-you-can-step-into",
+   "lastmod": "2024-11-15T10:40:01-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tree-fiber-shoes",
+   "lastmod": "2024-07-05T03:44:45-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/casual-tennis-shoe",
+   "lastmod": "2024-08-13T15:20:10-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tree-glider-press-release",
+   "lastmod": "2025-07-09T22:12:10-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/outdoor-shoes-for-the-nature-lover",
+   "lastmod": "2024-08-29T13:54:58-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/downtown-dubai",
+   "lastmod": "2024-09-16T08:30:17-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/introducing-the-tree-gliders",
+   "lastmod": "2025-07-09T22:12:02-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/patents",
+   "lastmod": "2025-11-10T21:58:57-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/allbirds-uber-eats-press-release",
+   "lastmod": "2025-07-09T22:11:56-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/flight-plan-23-press-release",
+   "lastmod": "2025-07-09T22:12:01-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/fall-shoe-trends-2024",
+   "lastmod": "2024-10-14T14:45:16-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/packing-for-cool-fall-weather",
+   "lastmod": "2025-06-11T11:18:33-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/five-essential-fall-hiking-tips",
+   "lastmod": "2024-10-21T08:19:14-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/protect-collection-press-release",
+   "lastmod": "2025-01-27T16:43:03-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/lounger-mule-press-release",
+   "lastmod": "2025-01-27T16:42:36-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/podiatrists-for-allbirds",
+   "lastmod": "2025-07-09T22:12:05-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/bfcm-early-access-offer-terms",
+   "lastmod": "2024-11-20T21:05:24-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/top-sustainable-gifts-2024",
+   "lastmod": "2024-11-26T12:15:01-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/corduroy-collection-press-page",
+   "lastmod": "2025-01-27T16:42:20-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/last-minute-gifts-sale-offer-terms",
+   "lastmod": "2024-12-16T21:24:46-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/end-of-season-sale-offer-terms",
+   "lastmod": "2024-12-25T21:00:14-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/how-to-make-the-most-of-your-winter-walks",
+   "lastmod": "2025-01-17T11:37:48-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/moonshot-press-page",
+   "lastmod": "2025-07-09T22:12:04-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/which-allbirds-matches-your-outdoor-style",
+   "lastmod": "2025-01-29T13:36:41-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/cards-on-the-table",
+   "lastmod": "2025-07-09T22:11:56-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/cards-on-the-table-press-release",
+   "lastmod": "2025-07-17T21:41:02-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/inspired-by-nature",
+   "lastmod": "2025-03-19T17:35:02-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/sms-opt-in",
+   "lastmod": "2025-04-16T14:32:38-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/stores-experience",
+   "lastmod": "2025-06-03T13:24:39-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tracking",
+   "lastmod": "2025-06-17T10:58:46-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/allbirds-terms-of-use-wholesale",
+   "lastmod": "2025-07-29T12:41:05-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/cloudinary",
+   "lastmod": "2025-07-09T22:11:58-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/cookies-1",
+   "lastmod": "2025-07-09T22:11:59-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/contact-us",
+   "lastmod": "2026-06-11T14:13:16-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/custom-landing-page-test",
+   "lastmod": "2025-07-09T22:12:00-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/design-system",
+   "lastmod": "2025-07-09T22:12:00-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/help-center",
+   "lastmod": "2025-07-09T22:12:01-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/materials",
+   "lastmod": "2025-07-09T22:12:02-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/refer-a-friend-uk",
+   "lastmod": "2025-07-09T22:12:05-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/section-rerendering-test",
+   "lastmod": "2025-07-09T22:12:06-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/shopify-cdn",
+   "lastmod": "2025-07-09T22:12:07-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/shopify-cdn-liquid",
+   "lastmod": "2025-07-09T22:12:07-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/store-experience",
+   "lastmod": "2025-07-09T22:12:07-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/data-sharing-opt-out",
+   "lastmod": "2025-07-09T22:12:10-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/seattle",
+   "lastmod": "2025-07-14T16:53:05-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/allbirds-global-entities",
+   "lastmod": "2025-08-06T10:42:13-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/world-of-wool",
+   "lastmod": "2025-08-04T19:34:00-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/wr-nz-press-release",
+   "lastmod": "2025-08-05T09:07:39-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/remix-collection",
+   "lastmod": "2025-08-18T11:05:38-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/remix-press-release",
+   "lastmod": "2025-08-19T08:41:31-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/tree-runner-collection",
+   "lastmod": "2025-08-25T14:05:22-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/store-locator",
+   "lastmod": "2025-09-17T11:36:19-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/waterproof-collection",
+   "lastmod": "2025-09-29T18:45:35-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/hiking-collection",
+   "lastmod": "2025-09-29T18:45:47-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/allbirds-in-bloom-oc-style-week-event",
+   "lastmod": "2025-10-13T10:02:47-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/private-shopping-events",
+   "lastmod": "2025-10-29T17:12:36-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/holiday-gift-guide",
+   "lastmod": "2025-11-03T18:39:47-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/gift-card-service-form",
+   "lastmod": "2025-12-08T11:01:45-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/varsity-collection",
+   "lastmod": "2026-01-05T13:50:05-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/dasher-nz-collection",
+   "lastmod": "2026-02-12T10:16:01-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/terralux-collection",
+   "lastmod": "2026-02-12T10:16:51-08:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/pages/quiz",
+   "lastmod": "2026-03-09T15:40:49-07:00",
+   "changefreq": "weekly",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/shoes",
+   "lastmod": "2026-09-25T16:58:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/all",
+   "lastmod": "2026-09-16T12:49:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-runners",
+   "lastmod": "2026-09-25T16:49:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-loungers",
+   "lastmod": "2026-07-08T13:39:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-runners",
+   "lastmod": "2026-09-25T16:57:48-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-loungers",
+   "lastmod": "2026-07-08T13:39:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-skippers",
+   "lastmod": "2026-09-25T16:49:03-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-sugar-zeffers",
+   "lastmod": "2026-07-08T13:39:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-zeffer-straps",
+   "lastmod": "2026-07-08T13:39:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-runner-insoles",
+   "lastmod": "2026-07-08T13:39:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-lounger-skipper-insoles",
+   "lastmod": "2026-07-08T13:39:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-toppers",
+   "lastmod": "2026-09-25T15:19:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-runners",
+   "lastmod": "2026-09-25T16:24:04-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-loungers",
+   "lastmod": "2026-09-25T16:49:05-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-runners",
+   "lastmod": "2026-09-25T16:49:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-loungers",
+   "lastmod": "2026-09-25T16:21:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-skippers",
+   "lastmod": "2026-09-25T16:22:03-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-toppers",
+   "lastmod": "2026-09-19T04:02:02-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-sugar-zeffers",
+   "lastmod": "2026-07-08T13:39:15-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-zeffer-straps",
+   "lastmod": "2026-07-08T13:39:15-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-runner-insoles",
+   "lastmod": "2026-07-08T13:39:15-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-lounger-skipper-insoles",
+   "lastmod": "2026-07-08T13:39:15-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/runner-lace-kit",
+   "lastmod": "2026-07-08T13:39:15-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/bird-mask",
+   "lastmod": "2026-07-08T13:39:15-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-runners-loop",
+   "lastmod": "2026-09-25T16:06:03-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-runners-loop",
+   "lastmod": "2026-07-28T19:38:01-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-95-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-95-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/smallbirds-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-toppers-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-toppers-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-runners-loop",
+   "lastmod": "2026-09-25T16:06:05-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-runners-loop",
+   "lastmod": "2026-09-25T16:57:48-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-loungers-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-loungers-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-skippers-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-loungers-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-loungers-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-skippers-loop",
+   "lastmod": "2026-07-08T13:39:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-breezers",
+   "lastmod": "2026-09-25T16:50:13-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-breezers-loop",
+   "lastmod": "2026-09-25T15:55:08-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/allbirds-koozie",
+   "lastmod": "2026-07-08T13:39:17-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens",
+   "lastmod": "2026-09-25T16:58:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens",
+   "lastmod": "2026-09-25T16:58:08-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-quarters",
+   "lastmod": "2026-08-21T10:48:07-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-hiders",
+   "lastmod": "2026-07-08T13:39:17-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-loungers",
+   "lastmod": "2026-09-25T16:58:06-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-loungers",
+   "lastmod": "2026-09-25T16:58:01-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-accessories",
+   "lastmod": "2026-09-16T12:49:48-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-tubers",
+   "lastmod": "2026-07-27T04:02:13-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-socks",
+   "lastmod": "2026-07-08T13:39:17-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-hiders-loop",
+   "lastmod": "2026-07-08T13:39:17-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-quarters-loop",
+   "lastmod": "2026-07-08T13:39:18-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-tubers-loop",
+   "lastmod": "2026-07-28T19:37:01-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-runner-up-mizzles",
+   "lastmod": "2026-09-25T16:22:13-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-runner-up-mizzles",
+   "lastmod": "2026-09-25T16:49:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-runner-mizzles",
+   "lastmod": "2026-09-25T16:50:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-runner-mizzles",
+   "lastmod": "2026-09-25T16:49:44-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-insoles",
+   "lastmod": "2026-07-08T13:39:18-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-insoles",
+   "lastmod": "2026-07-08T13:39:18-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/physical-gift-card",
+   "lastmod": "2026-07-08T13:39:18-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-mizzles",
+   "lastmod": "2026-09-25T16:49:44-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-mizzles",
+   "lastmod": "2026-09-25T16:49:13-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-runners-mizzle-loop",
+   "lastmod": "2026-07-08T13:39:18-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-runner-mizzles-loop",
+   "lastmod": "2026-07-08T13:39:18-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-runner-up-mizzles-loop",
+   "lastmod": "2026-07-08T13:39:19-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-runner-up-mizzles-loop",
+   "lastmod": "2026-07-08T13:39:19-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-high-tops",
+   "lastmod": "2026-09-25T16:22:13-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/wool-dwellers",
+   "lastmod": "2026-07-08T13:39:19-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/runner-lace",
+   "lastmod": "2026-07-08T13:39:19-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/bulk-ordering",
+   "lastmod": "2026-09-25T16:57:48-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-socks",
+   "lastmod": "2026-09-25T16:49:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-socks",
+   "lastmod": "2026-09-25T16:49:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-and-womens-spring-gifting",
+   "lastmod": "2026-07-08T13:39:20-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-spring-gifting",
+   "lastmod": "2026-07-08T13:39:20-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-spring-gifting",
+   "lastmod": "2026-07-08T13:39:20-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-spring-wool-shoes",
+   "lastmod": "2026-09-25T16:21:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-spring-wool-shoes",
+   "lastmod": "2026-07-08T13:39:20-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-high-tops",
+   "lastmod": "2026-09-25T16:49:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-dashers-1",
+   "lastmod": "2026-07-08T13:39:20-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-dashers-1",
+   "lastmod": "2026-07-08T13:39:20-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-sprinters",
+   "lastmod": "2026-08-21T10:48:06-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/health-worker-stanford-medicine",
+   "lastmod": "2026-07-08T13:39:20-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-dasher-125-loop",
+   "lastmod": "2026-07-08T13:39:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-dasher-125-loop",
+   "lastmod": "2026-07-08T13:39:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-115",
+   "lastmod": "2026-09-25T16:06:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-115",
+   "lastmod": "2026-09-25T16:58:08-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/sadie-shaves-the-day-book",
+   "lastmod": "2026-07-08T13:39:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-breezer-insoles",
+   "lastmod": "2026-07-08T13:39:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/spring-sea-flats",
+   "lastmod": "2026-07-08T13:39:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-bralette",
+   "lastmod": "2026-07-08T13:39:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-brief",
+   "lastmod": "2026-07-08T13:39:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-shortie",
+   "lastmod": "2026-07-08T13:39:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-trino-boxer-brief",
+   "lastmod": "2026-07-08T13:39:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-thong",
+   "lastmod": "2026-09-25T16:21:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-underwear",
+   "lastmod": "2026-07-08T13:39:21-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-brief-loop",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-thong-loop",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-shortie-loop",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-underwear",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/brighter-by-nature-wool-shoes-womens",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/brighter-by-nature-wool-shoes-mens",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/brighter-by-nature-tree-shoes-mens",
+   "lastmod": "2026-09-25T16:49:03-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/brighter-by-nature-tree-shoes-womens",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-pipers",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-pipers",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-pipers-loop",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-pipers-loop",
+   "lastmod": "2026-07-08T13:39:22-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/move-perform-new-colors-mens-shoes",
+   "lastmod": "2026-09-25T16:49:03-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/move-perform-new-colors-womens-shoes",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/color-burst-shoes-womens",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/color-burst-shoes-mens",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-cool-insole",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-cool-insole",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/skipper-flat-laces",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/topper-flat-laces",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/new-trino-socks",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-lounger-fluffs",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-lounger-fluffs",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-dasher-insoles",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-dasher-insoles",
+   "lastmod": "2026-07-08T13:39:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/remix-tree-dasher",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-sea-tee",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-sea-tee-relaxed-fit",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-jumper",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-cardi",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-cardi",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-jumper",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-puffer",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-trino-puffer",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-apparel",
+   "lastmod": "2026-09-25T16:49:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-apparel",
+   "lastmod": "2026-09-25T16:49:54-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/digital-gift-cards",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trinoxo-tee-loop",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-trinoxo-tee-loop",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-jumper-loop",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-jumper-loop",
+   "lastmod": "2026-07-08T13:39:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-cardi-loop",
+   "lastmod": "2026-07-08T13:39:25-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-cardi-loop",
+   "lastmod": "2026-07-08T13:39:25-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-trino-puffer-loop",
+   "lastmod": "2026-07-08T13:39:25-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-puffer-loop",
+   "lastmod": "2026-07-08T13:39:25-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/early-bird-hues",
+   "lastmod": "2026-07-08T13:39:25-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-lounger-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:25-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-lounger-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:25-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trinoxo-face-mask",
+   "lastmod": "2026-07-08T13:39:25-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/gifts-under-50",
+   "lastmod": "2026-07-27T04:02:13-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-dasher-mizzles",
+   "lastmod": "2026-09-25T16:22:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-dasher-mizzles",
+   "lastmod": "2026-09-25T16:22:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/gifts-for-him-2020",
+   "lastmod": "2026-09-25T16:06:03-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/gifts-for-her-2020",
+   "lastmod": "2026-09-25T16:49:00-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-dasher-mizzles-loop",
+   "lastmod": "2026-07-08T13:39:26-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-dasher-mizzles-loop",
+   "lastmod": "2026-07-08T13:39:26-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-135-loop",
+   "lastmod": "2026-09-25T15:22:13-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-135-loop",
+   "lastmod": "2026-09-25T16:44:44-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-48-loop",
+   "lastmod": "2026-07-08T13:39:26-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-48-loop",
+   "lastmod": "2026-07-08T13:39:26-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-perform-shoes-and-socks",
+   "lastmod": "2026-07-08T13:39:26-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-perform-shoes-and-socks",
+   "lastmod": "2026-07-08T13:39:26-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/noise-tree-dasher",
+   "lastmod": "2026-07-08T13:39:26-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/pay-it-to-the-planet",
+   "lastmod": "2026-07-08T13:39:26-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-staple-dashers",
+   "lastmod": "2026-07-08T13:39:26-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-staple-dashers",
+   "lastmod": "2026-07-08T13:39:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/feeding-america-donation",
+   "lastmod": "2026-07-08T13:39:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-145-loop",
+   "lastmod": "2026-07-08T13:39:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-145-loop",
+   "lastmod": "2026-07-08T13:39:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-250-loop",
+   "lastmod": "2026-07-08T13:39:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-250-loop",
+   "lastmod": "2026-07-08T13:39:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-135-apparel-loop",
+   "lastmod": "2026-07-08T13:39:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-135-apparel-loop",
+   "lastmod": "2026-07-08T13:39:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/physical-gift-cards",
+   "lastmod": "2026-07-08T13:39:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/digital-gift-card-rise",
+   "lastmod": "2026-07-08T13:39:27-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/gifts-for-him-jp",
+   "lastmod": "2026-08-20T04:01:59-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/gifts-for-her-jp",
+   "lastmod": "2026-09-25T15:55:08-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/digital-gift-cards-rise",
+   "lastmod": "2026-07-08T13:39:28-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/gift-cards-custom-collection",
+   "lastmod": "2026-07-08T13:39:28-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-going-going",
+   "lastmod": "2026-09-25T16:23:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-fresh-underwear-hues",
+   "lastmod": "2026-07-08T13:39:28-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/fresh-underwear-hues-womens",
+   "lastmod": "2026-09-25T16:21:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/fresh-underwear-hues-mens",
+   "lastmod": "2026-07-08T13:39:28-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/colorful-by-nature-mens-1",
+   "lastmod": "2026-07-08T13:39:28-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/colorful-by-nature-womens-1",
+   "lastmod": "2026-07-08T13:39:28-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-new-arrivals",
+   "lastmod": "2026-09-25T16:58:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-new-arrivals",
+   "lastmod": "2026-09-25T16:58:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/new-arrivals",
+   "lastmod": "2026-09-25T16:49:09-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/valentines-day-gifts",
+   "lastmod": "2026-08-11T04:02:13-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/editors-picks",
+   "lastmod": "2026-08-11T04:02:13-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-cardi-long",
+   "lastmod": "2026-07-08T13:39:28-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-hoodie",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/feel-good-inside-and-out",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-hoodie-loop",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-175-loop",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-175-loop",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-dasher-mizzles-mid",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-dasher-mizzles-mid",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-dasher-mizzles-mid-loop",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-dasher-mizzles-mid-loop",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-runner-fluffs",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-runner-fluffs",
+   "lastmod": "2026-07-08T13:39:29-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/all-shoes-mens-and-womens",
+   "lastmod": "2026-09-25T16:58:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/all-apparel-excluding-face-masks",
+   "lastmod": "2026-09-25T16:49:54-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-fresh-tree-hues-1",
+   "lastmod": "2026-09-25T16:21:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-fresh-tree-hues-1",
+   "lastmod": "2026-09-25T16:57:48-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-runner-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-runner-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-sprinters-no-show",
+   "lastmod": "2026-08-21T10:48:04-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-sprinters-cushioned",
+   "lastmod": "2026-08-21T10:48:01-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-sprinters-no-show-loop",
+   "lastmod": "2026-07-08T13:39:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-cardi-long-loop",
+   "lastmod": "2026-07-08T13:39:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-pacers-low-loop",
+   "lastmod": "2026-07-08T13:39:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/allbirds-15-socks-loop",
+   "lastmod": "2026-07-08T13:39:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-sprinters-loop",
+   "lastmod": "2026-07-08T13:39:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/allbirds-12-socks-loop",
+   "lastmod": "2026-07-08T13:39:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/spring-wardrobe",
+   "lastmod": "2026-09-25T16:49:03-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/school-spirit",
+   "lastmod": "2026-07-23T04:02:18-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-sea-tee-classic-fit",
+   "lastmod": "2026-07-08T13:39:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/oiselle-x-mia-saine-dasher",
+   "lastmod": "2026-07-08T13:39:30-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-long-sleeve-sea-tee",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-long-sleeve-sea-tee",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tees",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tees",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-trinoxo-long-sleeve-tee-loop",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trinoxo-long-sleeve-tee-loop",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/cherry-blossom-app-exclusive",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trinoxo-tee-classic-fit-loop",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trinoxo-tee-relaxed-fit-loop",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-dasher-relay",
+   "lastmod": "2026-09-25T16:49:49-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-dasher-relay",
+   "lastmod": "2026-09-25T16:49:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/native-app-custom-collection-tree-dasher-relay",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-dasher-relay-loop",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-dasher-relay-loop",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-125-loop",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-125-loop",
+   "lastmod": "2026-09-25T15:55:13-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-limited-edition-colors",
+   "lastmod": "2026-07-08T13:39:31-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-limited-edition-colors",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-trino-trunk",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-pipers",
+   "lastmod": "2026-09-25T16:49:42-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-pipers",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-camp-shirt",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-camp-short",
+   "lastmod": "2026-09-25T16:21:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-camp-short",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-camp-shirt",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-pipers-loop",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-pipers-loop",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-ribbed-dress",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-ribbed-tank",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-bralette-loop",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-trino-boxer-brief-loop",
+   "lastmod": "2026-07-08T13:39:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tops",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tops",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/running-shoe-collection",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-trino-trunk-loop",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-camp-short-loop",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-camp-shirt-loop",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-camp-shirt-loop",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-camp-short-loop",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-ribbed-tank-loop",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-ribbed-dress-loop",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-58-loop",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-58-loop",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/neutrals",
+   "lastmod": "2026-09-25T16:57:48-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/escape-essentials",
+   "lastmod": "2026-09-25T16:21:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-run-form-tank",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-legging",
+   "lastmod": "2026-07-08T13:39:33-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-bike-short",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-run-tank",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-sustainable-activewear",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-run-short",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-natural-run-short",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-natural-run-tee",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-breezers-original",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/summer-tree",
+   "lastmod": "2026-09-25T16:57:48-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-sustainable-activewear",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/native-app-collection-natural-run-apparel-mens",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/native-app-collection-natural-run-apparel-womens",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-activewear",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/new-tees",
+   "lastmod": "2026-07-08T13:39:34-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/everyday-slip-on-shoes",
+   "lastmod": "2026-09-25T16:49:02-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/whats-hot",
+   "lastmod": "2026-09-25T16:21:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/98",
+   "lastmod": "2026-09-25T16:49:26-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/best-for-warm-weather-womens",
+   "lastmod": "2026-09-25T16:49:46-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/best-for-cold-weather-mens",
+   "lastmod": "2026-09-25T16:49:32-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/best-for-traveling-womens",
+   "lastmod": "2026-09-25T16:58:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/vacation-day-outfits",
+   "lastmod": "2026-09-25T16:49:04-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trinoxo-tee-relaxed-fit",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trinoxo-tee-classic-fit-loop-1",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-run-tank-loop",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-run-form-tank-loop",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-run-short-loop",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-natural-run-short-loop",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-bike-short-loop",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-68-apparel-loop",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/sugar-rovers",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/collections-womens-natural-legging-loop",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-natural-run-tee-loop",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/sugar-rovers-loop",
+   "lastmod": "2026-07-08T13:39:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-sprinters-loop-1",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-triangle-bralette",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-bikini-brief",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/new-long-sleeve-tees",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/wool-runners",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-piper-mids",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-piper-mids",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-piper-mids-loop",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-piper-mids-loop",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-trail-runners-swt",
+   "lastmod": "2026-09-25T16:22:09-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trail-runners-swt",
+   "lastmod": "2026-09-25T15:21:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-bikini-brief-loop",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-18-undies-loop",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trino-triangle-bralette-loop",
+   "lastmod": "2026-07-08T13:39:36-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-trail-runners-swt-loop",
+   "lastmod": "2026-09-25T15:21:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-trail-runners-swt-loop",
+   "lastmod": "2026-09-25T15:21:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/hats-and-scarves",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/the-beanie",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/the-pom-beanie",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/the-scarf",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/the-cap",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-rr-sweatshirt",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-rr-sweatshirt",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-rr-sweatpant",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-rr-sweatpant",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-rr-hoodie",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-rr-hoodie",
+   "lastmod": "2026-09-25T16:49:10-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-cozy-crew",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/wool-dwellers-loop",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/allbirds-65-shoes-loop",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-cozy-crew-loop",
+   "lastmod": "2026-07-08T13:39:37-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/allbirds-24-apparel-loop",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/the-beanie-loop",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/the-pom-beanie-loop",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/the-cap-loop",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/the-scarf-loop",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-68-apparel-loop",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/allbirds-68-accessories-loop",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/allbirds-48-accessories-loop",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-classic-kit-custom-collection",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-r-r-hoodie-loop",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-r-r-sweatshirt-loop",
+   "lastmod": "2026-07-08T13:39:38-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-r-r-sweatpant-loop",
+   "lastmod": "2026-07-08T13:39:39-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-r-r-hoodie-loop",
+   "lastmod": "2026-07-08T13:39:39-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-r-r-sweatpant-loop",
+   "lastmod": "2026-07-08T13:39:39-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-r-r-sweatshirt-loop",
+   "lastmod": "2026-07-08T13:39:39-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-98-apparel-loop",
+   "lastmod": "2026-07-08T13:39:39-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-98-apparel-loop",
+   "lastmod": "2026-07-08T13:39:39-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-dasher-fluffs",
+   "lastmod": "2026-07-08T13:39:39-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-dasher-fluffs",
+   "lastmod": "2026-07-08T13:39:39-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-dasher-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:39-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-dasher-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:39-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/trino-sprinters-crew",
+   "lastmod": "2026-07-08T13:39:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-runner-up-mizzle-fluffs",
+   "lastmod": "2026-07-08T13:39:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-runner-up-mizzle-fluffs",
+   "lastmod": "2026-07-08T13:39:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-sweatshirts-and-sweatpants",
+   "lastmod": "2026-09-25T16:49:35-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-sweatshirts-and-sweatpants",
+   "lastmod": "2026-08-21T10:23:59-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/face-masks",
+   "lastmod": "2026-07-08T13:39:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/lace-kits",
+   "lastmod": "2026-07-08T13:39:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/winter-limited-edition-shoes",
+   "lastmod": "2026-07-08T13:39:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-wool-runner-up-mizzle-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-wool-runner-up-mizzle-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/wool-piper-mid-split-tartan",
+   "lastmod": "2026-07-08T13:39:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/frost-collection",
+   "lastmod": "2026-07-08T13:39:40-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/allbirds-x-adidas-futurecraft-footprint",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-shoes-138-loop",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-138-shoes-loop",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-118-shoes-loop",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-118-shoes-loop",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-108-shoes-loop",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-108-shoes-loop",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-68-shoes-loop",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-68-shoes-loop",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/wool-dweller-fluffs",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/wool-dwellers-without-wool-dweller-fluffs",
+   "lastmod": "2026-07-08T13:39:41-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/smallbirds-fluffs",
+   "lastmod": "2026-09-25T16:21:46-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/wool-dweller-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:42-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/wool-dwellers-w-o-fluffs",
+   "lastmod": "2026-07-08T13:39:42-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/smallbirds-w-o-smallbirds-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:42-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/smallbirds-fluffs-loop",
+   "lastmod": "2026-07-08T13:39:42-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-going-going",
+   "lastmod": "2026-09-25T16:50:14-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-dashers",
+   "lastmod": "2026-09-25T16:50:00-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-dashers",
+   "lastmod": "2026-09-25T16:50:01-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/sf-neighborhood-collection",
+   "lastmod": "2026-07-08T13:39:42-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-natural-run-long-sleeve-tee",
+   "lastmod": "2026-07-08T13:39:42-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-run-long-sleeve-tee",
+   "lastmod": "2026-07-08T13:39:42-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-run-tee",
+   "lastmod": "2026-07-08T13:39:42-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-legging-capri",
+   "lastmod": "2026-07-08T13:39:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-birthday-wool-runner",
+   "lastmod": "2026-07-08T13:39:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-dasher-2-loop",
+   "lastmod": "2026-07-08T13:39:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-tree-dasher-2-loop",
+   "lastmod": "2026-07-08T13:39:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-tree-dasher-2-loop-1",
+   "lastmod": "2026-07-08T13:39:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-birthday-wool-runner",
+   "lastmod": "2026-07-08T13:39:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-legging-capri-loop",
+   "lastmod": "2026-07-08T13:39:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-natural-run-long-sleeve-tee-loop",
+   "lastmod": "2026-07-08T13:39:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-natural-run-long-sleeve-tee-loop",
+   "lastmod": "2026-07-08T13:39:43-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/birthday-wool-runner",
+   "lastmod": "2026-09-25T16:57:48-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-100-shoes-loop",
+   "lastmod": "2026-09-25T16:58:11-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-100-shoes-loop",
+   "lastmod": "2026-09-25T16:58:10-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-105-shoes-loop",
+   "lastmod": "2026-09-25T15:55:16-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-105-shoes-loop",
+   "lastmod": "2026-09-25T16:28:06-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-110-shoes-loop",
+   "lastmod": "2026-09-25T16:06:03-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-110-shoes-loop",
+   "lastmod": "2026-09-25T16:06:24-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/mens-allbirds-115-shoes-loop",
+   "lastmod": "2026-09-25T16:58:08-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  },
+  {
+   "loc": "https://www.allbirds.com/collections/womens-allbirds-115-shoes-loop",
+   "lastmod": "2026-09-25T16:06:23-07:00",
+   "changefreq": "daily",
+   "priority": ""
+  }
+ ],
+ "total_urls": 976
+}

@@ -1,0 +1,135 @@
+{
+ "pages": [
+  {
+   "id": "p000",
+   "url": "https://allbirds.com/",
+   "final_url": "https://www.allbirds.com/",
+   "status": 200,
+   "depth": 0,
+   "type": "home",
+   "bytes": 713239,
+   "elapsed_ms": 560,
+   "content_type": "text/html; charset=utf-8",
+   "redirects": [
+    {
+     "from": "https://allbirds.com/",
+     "to": "https://www.allbirds.com/",
+     "status": 301
+    }
+   ],
+   "error": "",
+   "is_html": true,
+   "headers": {
+    "content-type": "text/html; charset=utf-8",
+    "content-security-policy": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;",
+    "vary": "accept-encoding",
+    "server": "cloudflare",
+    "content-encoding": "gzip"
+   },
+   "word_count": 14522,
+   "title": "Allbirds: Comfortable, Sustainable Shoes & Apparel",
+   "h1_count": 1,
+   "jsonld_blocks": 0
+  },
+  {
+   "id": "p001",
+   "url": "https://www.allbirds.com/agents.md",
+   "final_url": "https://www.allbirds.com/agents.md",
+   "status": 200,
+   "depth": 1,
+   "type": "other",
+   "bytes": 4388,
+   "elapsed_ms": 307,
+   "content_type": "text/markdown; charset=utf-8",
+   "redirects": [],
+   "error": "",
+   "is_html": false,
+   "headers": {
+    "content-type": "text/markdown; charset=utf-8",
+    "content-security-policy": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;",
+    "vary": "accept-encoding",
+    "server": "cloudflare",
+    "content-encoding": "gzip"
+   }
+  },
+  {
+   "id": "p002",
+   "url": "https://www.allbirds.com/products/mens-wool-runners",
+   "final_url": "https://www.allbirds.com/products/mens-wool-runners",
+   "status": 200,
+   "depth": 1,
+   "type": "product",
+   "bytes": 755364,
+   "elapsed_ms": 1741,
+   "content_type": "text/html; charset=utf-8",
+   "redirects": [],
+   "error": "",
+   "is_html": true,
+   "headers": {
+    "content-type": "text/html; charset=utf-8",
+    "vary": "Accept-Encoding, Accept",
+    "content-security-policy": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;",
+    "cache-control": "private, max-age=0, must-revalidate",
+    "server": "cloudflare",
+    "content-encoding": "gzip"
+   },
+   "word_count": 16525,
+   "title": "Allbirds Wool Runners, Men's | Reviews, SIzing Info | Casual Walking, Running Shoes",
+   "h1_count": 3,
+   "jsonld_blocks": 2
+  },
+  {
+   "id": "p003",
+   "url": "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+   "final_url": "https://www.allbirds.com/products/mens-wool-runners-natural-white",
+   "status": 200,
+   "depth": 1,
+   "type": "product",
+   "bytes": 762480,
+   "elapsed_ms": 638,
+   "content_type": "text/html; charset=utf-8",
+   "redirects": [],
+   "error": "",
+   "is_html": true,
+   "headers": {
+    "content-type": "text/html; charset=utf-8",
+    "vary": "Accept-Encoding, Accept",
+    "content-security-policy": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;",
+    "cache-control": "private, max-age=0, must-revalidate",
+    "server": "cloudflare",
+    "content-encoding": "gzip"
+   },
+   "word_count": 16543,
+   "title": "Men's Wool Runners - White - Everyday Sneakers | Allbirds",
+   "h1_count": 3,
+   "jsonld_blocks": 2
+  },
+  {
+   "id": "p004",
+   "url": "https://www.allbirds.com/products/womens-wool-runners-natural-black",
+   "final_url": "https://www.allbirds.com/products/womens-wool-runners-natural-black",
+   "status": 200,
+   "depth": 1,
+   "type": "product",
+   "bytes": 773705,
+   "elapsed_ms": 616,
+   "content_type": "text/html; charset=utf-8",
+   "redirects": [],
+   "error": "",
+   "is_html": true,
+   "headers": {
+    "content-type": "text/html; charset=utf-8",
+    "vary": "Accept-Encoding, Accept",
+    "content-security-policy": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;",
+    "cache-control": "private, max-age=0, must-revalidate",
+    "server": "cloudflare",
+    "content-encoding": "gzip"
+   },
+   "word_count": 16534,
+   "title": "Women's Wool Runners - Black - Everyday Sneakers | Allbirds",
+   "h1_count": 3,
+   "jsonld_blocks": 2
+  }
+ ],
+ "rendered": {}
+}
