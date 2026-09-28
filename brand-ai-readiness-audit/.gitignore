@@ -46,6 +46,7 @@ venv.bak/
 .citetrail/
 test_out/
 test_run*/
+audit_live/
 
 # OS generated files
 .DS_Store
